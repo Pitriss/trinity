@@ -1,0 +1,27 @@
+[Color Scheme]
+Name=Pitriss Blue
+activeBackground=39,73,159
+activeBlend=7,141,230
+activeForeground=255,255,255
+activeTitleBtnBg=230,230,230
+alternateBackground=156,188,233
+background=168,202,249
+buttonBackground=198,217,246
+buttonForeground=0,0,0
+contrast=5
+foreground=0,0,0
+frame=239,239,239
+handle=239,239,239
+inactiveBackground=191,191,191
+inactiveBlend=171,171,171
+inactiveForeground=95,95,95
+inactiveFrame=239,239,239
+inactiveHandle=239,239,239
+inactiveTitleBtnBg=235,235,235
+linkColor=0,0,238
+selectBackground=74,149,214
+selectForeground=255,255,255
+shadeSortColumn=true
+visitedLinkColor=82,24,139
+windowBackground=212,227,248
+windowForeground=0,0,0
