@@ -1,0 +1,27 @@
+[Color Scheme]
+Name=Nordic
+activeBackground=53,60,74
+activeBlend=107,145,184
+activeForeground=255,255,255
+activeTitleBtnBg=127,158,200
+alternateBackground=65,69,81
+background=53,60,74
+buttonBackground=65,69,81
+buttonForeground=255,255,255
+contrast=7
+foreground=255,255,255
+frame=53,60,74
+handle=239,239,239
+inactiveBackground=53,58,69
+inactiveBlend=65,69,81
+inactiveForeground=221,221,221
+inactiveFrame=65,69,81
+inactiveHandle=239,239,239
+inactiveTitleBtnBg=167,181,199
+linkColor=127,158,238
+selectBackground=110,135,160
+selectForeground=255,255,255
+shadeSortColumn=false
+visitedLinkColor=154,123,255
+windowBackground=53,58,69
+windowForeground=255,255,255
